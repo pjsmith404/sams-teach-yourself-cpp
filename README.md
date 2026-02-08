@@ -1,3 +1,3 @@
-# Sam's Tech Yourself C++
+# Sam's Teach Yourself C++
 
 Work following along with the workbook titled above.
